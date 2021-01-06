@@ -1,0 +1,12 @@
+.box-color.sticky {
+    overflow-y: hidden;
+    background-color: #5d5d5d;
+    color: #ebe9e9;
+    filter: invert(15%);
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 2;
+    width: 100%;
+    box-shadow: 0 0 5px #facfcf, 0 0 5px #facfcf, 0 0 5px #facfcf, 0 0 5px #facfcf;
+}

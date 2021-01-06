@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'movie_lettersregular';
+    src: url('./font/movie_letters/movlette-webfont.woff2') format('woff2'), url('./font/movie_letters/movlette-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'bebas_neueregular';
+    src: url('./font/movie_letters/bebasneue-regular-webfont.woff2') format('woff2'), url('./font/movie_letters/bebasneue-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'bebas_neueregular';
+    src: url('./font/movie_letters/movlette-webfont.woff2') format('woff2'), url('./font/movie_letters/movlette-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
